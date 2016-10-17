@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MisGuided </title>
-    <link>http://teyn.neocities.org/MisGuided/post/index.xml</link>
+    <link>https://teyn-varjo.github.io/bookshelf/post/index.xml</link>
     <language>en-us</language>
     <author>Teyn Varjo</author>
     <rights>(C) 2016</rights>
@@ -12,10 +12,10 @@
       
         <item>
           <title>Rise of the Red Shadow</title>
-          <link>http://teyn.neocities.org/MisGuided/post/Rise-of-the-Red-Shadow/</link>
+          <link>https://teyn-varjo.github.io/bookshelf/post/Rise-of-the-Red-Shadow/</link>
           <pubDate>Mon, 17 Oct 2016 12:16:15 EEST</pubDate>
           <author>Teyn Varjo</author>
-          <guid>http://teyn.neocities.org/MisGuided/post/Rise-of-the-Red-Shadow/</guid>
+          <guid>https://teyn-varjo.github.io/bookshelf/post/Rise-of-the-Red-Shadow/</guid>
           <description>&lt;p&gt;Fantastic book about a malthrope that makes against all odds.&lt;/p&gt;
 </description>
         </item>
@@ -24,10 +24,10 @@
       
         <item>
           <title>good to great</title>
-          <link>http://teyn.neocities.org/MisGuided/post/good-to-great/</link>
+          <link>https://teyn-varjo.github.io/bookshelf/post/good-to-great/</link>
           <pubDate>Mon, 17 Oct 2016 12:16:02 EEST</pubDate>
           <author>Teyn Varjo</author>
-          <guid>http://teyn.neocities.org/MisGuided/post/good-to-great/</guid>
+          <guid>https://teyn-varjo.github.io/bookshelf/post/good-to-great/</guid>
           <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies become great.&lt;/p&gt;
 </description>
         </item>
